@@ -1,16 +1,13 @@
-## Hi there 👋
+# WeShareAI
 
-<!--
-**weshareapp/weshareapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Modern Social & AI Sharing Infrastructure for Publishers.**
 
-Here are some ideas to get you started:
+Formerly **E-MAILiT**, **WeShareAI** builds lightweight, privacy-first, self-hosted sharing tools trusted by publishers worldwide since 2008—engineered for both classic social networks and next-generation AI assistants (**ChatGPT, Claude, Perplexity, Gemini, and Grok**).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Flagship Open-Source Product
+- **[WeShareAI Share Buttons for WordPress](https://github.com/weshareapp/weshareai-share-buttons-wordpress)** — 100% self-hosted WordPress plugin combining social & messaging buttons with one-click AI assistant sharing, built-in local click statistics, and post-share Calls to Action.
+  - [WordPress.org Plugin Directory](https://wordpress.org/plugins/e-mailit/)
+  - [Interactive WordPress Playground Live Preview](https://wordpress.org/plugins/e-mailit/?preview=1)
+
+### Connect
+- **Official Website:** [weshareapp.io](https://www.weshareapp.io)
